@@ -10,4 +10,6 @@ Antes de comenzar, asegúrate de estudiar detenidamente los requisitos específi
 Elabora casos de prueba completos que incluyan tanto el diseño como la funcionalidad de las características clave. Es fundamental considerar cada función en detalle, especialmente aquellas resaltadas en negrita. Los diseños en Figma están disponibles como referencia.
 
 ### Documentación de Resultados:
-![image](https://github.com/user-attachments/assets/96350fac-716e-461e-8d1e-3d21736f6958)
+									
+![image](https://github.com/user-attachments/assets/f407a111-47e2-42ce-a482-45d7741b96a4)
+
