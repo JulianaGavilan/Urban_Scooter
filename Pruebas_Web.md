@@ -15,8 +15,8 @@ Definiremos una lista de requisitos que aseguren el correcto seguimiento de los 
 Implementaremos pruebas para la pantalla "Hacer pedido" con el objetivo de garantizar la precisión en la entrada de datos, siguiendo un enfoque estructurado y documentado en una tabla según la plantilla establecida.
 
 ### Pruebas y Verificación
-Para garantizar la calidad, probaremos todas las funcionalidades no solo mediante las listas de comprobación y tablas resultantes, sino también considerando el diseño global y los requisitos específicos. La página de inicio (landing page) no será objeto de prueba en esta etapa.
 
-Los recursos de diseño están disponibles en Figma para facilitar el desarrollo y la revisión colaborativa.
+![image](https://github.com/user-attachments/assets/b7d0688a-6c3b-4778-b1c0-1b3cf30196e7)
+
 
 ![image](https://github.com/user-attachments/assets/03b13d72-bb97-4444-b57d-0f17fa963230)
